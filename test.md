@@ -1,2 +1,2 @@
 ##-Ted.md
-Update lần 1
+Update lan 2
