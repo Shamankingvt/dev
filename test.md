@@ -1,2 +1,2 @@
 ##-Ted.md
-Update lan 2
+Ted chinh file nay
