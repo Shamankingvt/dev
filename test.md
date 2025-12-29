@@ -1,2 +1,2 @@
 ##-Ted.md
-Ted chinh file nay
+Kodama chinh file nay
